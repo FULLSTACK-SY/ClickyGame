@@ -16,4 +16,5 @@
 
 In the project directory, you can run:
 ### `yarn create react-app ____________`
+### copy src folder
 ### `yarn start`
