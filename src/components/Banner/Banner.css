@@ -1,8 +1,9 @@
 .banner {
   background-image: url('../../images/bg.png') !important;
-  height: 370px;
+  height: 270px;
   margin: 0 !important;
-  padding: 0 !important;
+  padding: 5,0,0,0;
+   /* 0 !important; */
   color: white;
   font-size: 18px;
 }
