@@ -1,5 +1,9 @@
 # ClickyGame
 
+## Run :
+https://clickygamesy.herokuapp.com/
+
+## User Stories :
 * The application renders different images to the screen. Each image listens for click events.
 
 * The application keeps track of the user's score.
@@ -12,7 +16,7 @@
 
 * Once the user's score is reset after an incorrect guess, the game restarts.
 
-
+## Install :
 
 In the project directory, you can run:
 ### `yarn create react-app ____________`
